@@ -97,10 +97,4 @@ Para executar os testes da API:
 python test_api.py
 ```
 
-## Contribuição
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT.
