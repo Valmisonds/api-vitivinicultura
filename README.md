@@ -25,7 +25,7 @@ A API permite consultar dados das seguintes categorias:
 
 1. Clone o repositório:
 ```
-git clone https://github.com/seu-usuario/api-vitivinicultura.git
+git clone https://github.com/Valmisonds/api-vitivinicultura.git
 cd api-vitivinicultura
 ```
 
